@@ -1,0 +1,14 @@
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\bin\Debug\QBPOS Custom Reports.exe.config
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\bin\Debug\QBPOS Custom Reports.exe
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\bin\Debug\QBPOS Custom Reports.pdb
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\bin\Debug\QBPOS Custom Reports.xml
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\Interop.MSXML2.dll
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\Interop.QBPOSFC3Lib.dll
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\Interop.Scripting.dll
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\QBPOS Custom Reports.vbproj.ResolveComReference.cache
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\QBPOS_Custom_Reports.Form1.resources
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\QBPOS_Custom_Reports.Resources.resources
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\QBPOS Custom Reports.vbproj.GenerateResource.Cache
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\QBPOS Custom Reports.exe
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\QBPOS Custom Reports.xml
+C:\Users\DeAndre\documents\visual studio 2015\Projects\QBPOS Custom Reports\QBPOS Custom Reports\obj\Debug\QBPOS Custom Reports.pdb
